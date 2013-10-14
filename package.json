@@ -1,7 +1,7 @@
 {
   "name": "update-notifier-tester",
   "description": "used for testing update-notifier",
-  "version": "0.0.2",
+  "version": "0.0.3-rc1",
   "repository": {
     "type": "git",
     "url": "git://github.com/jenius/update-notifier-tester.git"
