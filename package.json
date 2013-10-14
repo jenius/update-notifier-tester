@@ -1,0 +1,14 @@
+{
+  "name": "update-notifier-tester",
+  "description": "used for testing update-notifier",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jenius/update-notifier-tester.git"
+  },
+  "author": "Jeff Escalante",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
